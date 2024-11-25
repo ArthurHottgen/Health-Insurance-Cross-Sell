@@ -81,4 +81,4 @@ For future predictions, new customers can be sorted from a GSheets that uses the
 
 Finally, the Propensity Score column will be filled with the score of the respective customer, which can be used to sort the call priority list.
 
-![](img/gsheets_api.png)
+![](img/gsheets_api_print.png)
