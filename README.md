@@ -67,13 +67,13 @@ The chosen model is the LightGBM one, due to its good results and low serialized
 
 In business terms, it would be necessary to evaluate the team's ability to make calls and then, from the gain curve, prescribe the amount of customers who would actually be interested in the product that we would be able to approach.
 
-Hypothetically, thinking in cases where the team's capacity would be to make 20,000 calls, which would represent 26.23% of our customer base, 62.28% of the customers interested in acquiring the new product would be contacted. In another hypothetical case where the capacity would be 40,000 calls, and it would be possible to contact 52.47% of the customers, it would be possible to identify 99.35% of the customers actually interested in the new product.
+Hypothetically, thinking in cases where the team's capacity would be to make 20,000 calls, which would represent 26.29% of our customer base, 71.60% of the customers interested in acquiring the new product would be contacted. In another hypothetical case where the capacity would be 40,000 calls, and it would be possible to contact 52.59% of the customers, it would be possible to identify 99.35% of the customers actually interested in the new product.
 
 
 |   Capacity (Calls) |   % of clients contacted |   % of interested clients contacted |
 |-------------------:|-------------------------:|------------------------------------:|
-|     20,000         |        15.75%            |           71.60%                    |
-|     40,000         |        31.50%            |           99.35%                    |
+|     20,000         |        26.29%            |           71.60%                    |
+|     40,000         |        52.59%            |           99.35%                    |
 
 # 6. GSheets API Integration
 
