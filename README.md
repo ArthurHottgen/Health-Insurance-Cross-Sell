@@ -55,7 +55,7 @@ The data brings the following informations:
 
 # 4. Machine Learning Metrics
 
-For the problem solution, it was evaluated four machine learning algorithms: KNN, Logistic Regression, Random Forest Classifier, Extra Trees Classifier, XGBoost, CatBoost and LightGBM.
+For the problem solution, it was evaluated seven machine learning algorithms: KNN, Logistic Regression, Random Forest Classifier, Extra Trees Classifier, XGBoost, CatBoost and LightGBM.
 
 The gain curve was drawn for each classifier. The gain curve has on its horizontal axis the percentage of the approached base and on the vertical axis the percentage of people who would actually be interested in the new product. Thus, the higher the percentage of interested people identified at the beginning of the ordered base, the better the classifier will be.
 
